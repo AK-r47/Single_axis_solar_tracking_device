@@ -54,7 +54,8 @@ A **solar-tracking device** is a mechanical system designed to **orient solar pa
 * **Higher initial cost** due to mechanical and control systems.
 * **Maintenance requirements** are greater due to moving parts.
 * **Structural considerations**: Increased wind loading risks, needing stronger foundations.
-* 
+
+------------
 **7. Conclusion**
 
 Solar tracking systems play a crucial role in improving the **efficiency of solar PV systems**. While **fixed panels are simpler and cheaper**, trackers are preferred in projects aiming for **maximum energy yield and better return on investment (ROI)**, especially in regions with high direct normal irradiance (DNI).
